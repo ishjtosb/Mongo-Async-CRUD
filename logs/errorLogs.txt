@@ -1,0 +1,18 @@
+2023/06/27	17:18:22	cec2be35-b3ce-4c91-b7bd-d4336b62716a	Error	Not allowed by CORS
+2023/06/27	17:18:50	6bff0f57-7e93-480d-bcc2-2cc3e8853b06	Error	Not allowed by CORS
+2023/06/27	17:19:03	56727bb3-0888-472b-b24d-749dfee889fb	Error	Not allowed by CORS
+2023/06/27	17:30:04	5a2866e7-65a4-4d0c-bfbc-cf26bc947199	Error	Not allowed by CORS
+2023/06/27	17:30:04	69cc4332-9a1b-4cb8-a502-8e2b0804fcc3	Error	Not allowed by CORS
+2023/06/28	16:37:53	c5aa1084-4dbb-4362-9372-cf1601091fdc	ReferenceError	path is not defined
+2023/06/28	16:38:01	5a8b9376-ee2d-4c47-9761-28134417e436	ReferenceError	path is not defined
+2023/06/28	16:39:08	a5c712aa-cbab-4a35-a099-cb0bd446b4a5	Error	ENOENT: no such file or directory, stat 'E:\Dave Gray\Node\expressJS\routes\views\new-page.html'
+2023/06/28	16:39:21	56dee353-9354-43cd-a571-b35825e9126b	Error	ENOENT: no such file or directory, stat 'E:\Dave Gray\Node\expressJS\routes\views\new-page.html'
+2023/07/03	14:10:15	2ae1faeb-cbb2-4d3e-8e9f-4371d97cbf66	TypeError	Cannot read property 'username' of undefined
+2023/07/03	14:10:43	e93c7eb4-8531-44f1-abe5-6670a18274db	TypeError	Cannot read property 'username' of undefined
+2023/07/03	14:11:27	b2d7ef2d-4d1d-4267-ba4d-82f5931f5537	TypeError	Cannot read property 'username' of undefined
+2023/07/03	14:14:00	beeac38d-d9d9-492c-8ffd-1c35123f479f	TypeError	res.setStatus is not a function
+2023/07/03	14:23:07	705e77f4-2b4f-4b0b-8a4c-89ab6ddaadfb	TypeError	Cannot read property 'split' of undefined
+2023/07/04	15:18:43	aaadf97c-e5c9-40ea-a712-34e3c2fc7c58	TypeError	Cannot read property 'find' of undefined
+2023/07/08	13:55:58	a5fd6986-9754-4919-a0d7-27f401ef89ec	TypeError	Cannot read property 'split' of undefined
+2023/07/08	14:33:55	163f167f-9ed3-4316-94d7-8abdaf8a98fe	TypeError	Cannot read property 'split' of undefined
+2023/07/08	14:43:42	9e9de58e-7f0b-4a91-bf7d-7d73444ab77a	TypeError	Cannot read property 'split' of undefined
